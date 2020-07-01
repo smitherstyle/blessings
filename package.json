@@ -1,0 +1,35 @@
+{
+  "name": "blessings",
+  "version": "1.0.0",
+  "description": "Simple Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "auth0rize",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "ws": "^7.3.0"
+  },
+  "dependencies": {
+    "@dashevo/wallet-lib": "^7.13.3",
+    "bitbox-sdk": "^8.11.2",
+    "dash": "^3.13.3",
+    "man": "^1.1.5",
+    "nano": "^8.2.2",
+    "openssl": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smitherstyle/blessings.git"
+  },
+  "keywords": [
+    "crypto",
+    "bitbox"
+  ],
+  "bugs": {
+    "url": "https://github.com/smitherstyle/blessings/issues"
+  },
+  "homepage": "https://github.com/smitherstyle/blessings#readme"
+}
